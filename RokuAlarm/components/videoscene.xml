@@ -13,7 +13,7 @@
 
       videocontent.title = "RokuAlarm"
       videocontent.streamformat = "auto"
-      videocontent.url = "{StreamURL}"
+      videocontent.url = "{192.168.1.204}"
 
       video = m.top.findNode("RokuAlarm")
       video.content = videocontent
